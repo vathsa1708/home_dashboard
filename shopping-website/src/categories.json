@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Electronics",
+    "image": "/images/ele.webp",
+    "subcategories": ["Mobiles", "Laptops", "Cameras"]
+  },
+  {
+    "name": "Fashion",
+    "image": "/images/fash.avif",
+    "subcategories": ["Men", "Women", "Kids"]
+  },
+  {
+    "name": "Home",
+    "image": "/images/home.jpg",
+    "subcategories": ["Furniture", "Decor", "Appliances"]
+  }
+]
